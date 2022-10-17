@@ -1,47 +1,46 @@
-# Dzmitriy Nestser
+# Dmitriy Nester  [my-website](https://nester-dev.ru/)
 ## Contacts:
 - **Location:** Baranovichi, Belarus
 - **Email:** nester-dev@gmail.com
-- **GitHub:** nester-dev
+- **GitHub:** [nester-dev](https://github.com/nester-dev)
 - **Phone:** +375 (29) 804-38-96
 - **Telegram:** @oksanjke
 
 ## About Me:
-I am 30 years old. Currently working as a supplier in a construction company. In my free time I study html layout and JavaScript. Also working on my portfolio [website](https://nester-dev.ru/). At the moment, my main goal is to get a job as a Junior front-end developer. My strengths are purposefulness, perseverance and the desire to progress!
+Hello, my name is Dmitriy! I am a frontend developer from Belarus!<br/> <br/>
+Looking for a great team, where I will be able to realize my potential and apply my skills. <br/> I know how to organize myself well, as well as my workplace. I easily make friends with new people and communicate well with my teammates. I also know how to admit and, of course, correct my mistakes.
+Also, I can easily learn and adapt to new tasks. If the project uses a technology that I am not familiar with / poorly familiar with, then I will familiarize myself with it as soon as possible and will be ready to work with it.<br/> <br/> At the moment, my main goal is to get a job as a Junior front-end developer. My strengths are purposefulness, perseverance and the desire to progress!
 
 ## Skills:
-- HTML
-- CSS (Preprocessor SCSS, BEM methodology)
+- React Js
+- Redux
+- TypeScript 
+- JavaScript
+- HTML5
+- CSS3
+- Webpack5
+- Git/GitHub
 - BEM methodology
-- JavaScript basic
-- Git/GitHub 
 - Figma
-
-## Code example:
-**Welcome**. *In this kata, you are asked to square every digit of a number and concatenate them.<br/>
-For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.<br/>*
-**Note**: *The function accepts an integer and returns an integer.*
-
-```
-function squareDigits(num) {
-  let array = String(num).split('');
-  let result = "";
-  for (let i = 0; i < array.length; i++) {
-    result = result + String(array[i] * array[i]);
-  }
-  return Number(result);
-}
-```
 
 ## Courses:
 
+- RSSchool
+   - [React JS](https://rs.school/react/)
+   - [JavaScript/TypeScript](https://wearecommunity.io/events/js-intro-rss-2022q1)
+
 - Udemy
-   - [HTML/CSS]([website](https://nester-dev.ru/))
+   - [React JS](https://www.udemy.com/course/react-ru/)
    - [JavaScript](https://www.udemy.com/course/javascript_full/)
+   - [HTML/CSS]([website](https://nester-dev.ru/))
    - [Git/GitHub](https://www.udemy.com/course/git-alishev/)
 
+## Certificates:
 
-## Languages:
+![JavaScript](./RSSchool.jpg "RSSchool Certificate")
+![React](./Udemy.jpg "Сертификат школы RS")
+
+## Languages: 
 
 - **Russian** - native speaker.
 - **English** - A2.
